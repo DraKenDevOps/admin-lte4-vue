@@ -1,0 +1,13 @@
+.angular
+.github
+.scannerwork
+.vscode
+.docker
+docs
+infra
+node_modules
+public
+src/assets
+dist
+build
+tsconfig*.json
